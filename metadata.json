@@ -1,0 +1,6 @@
+{
+  "name": "FIXORA MOBILE CARE — Phone Repair Dhaka",
+  "description": "Professional mobile phone repair and servicing center in Uttara, Dhaka, Bangladesh. Fast screen replacement, battery repair, charging port fix, and genuine parts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
